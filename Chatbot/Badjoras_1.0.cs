@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula03
+namespace Badjoras 1.0 //Aula03
 {
     class Chatbot
     {
